@@ -1,0 +1,4 @@
+Dados do usuario
+User Name : suporte
+Home Folder: C:\Users\suporte
+
